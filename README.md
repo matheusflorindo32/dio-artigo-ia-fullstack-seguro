@@ -86,11 +86,9 @@ O artigo foi escrito com:
 
 ## 🖼️ Preview Visual
 
-| Capa do Artigo | Arquitetura Segura | Deploy |
+| Capa do Artigo | Arquitetura Segura | Fluxo Seguro |
 |:---:|:---:|:---:|
-| ![Capa](images/capa-artigo.png) | ![Arquitetura](images/frontend-backend.png) | ![Deploy](images/fluxo-seguro-ia.png) |
-
-> 💡 **Nota:** As imagens acima são representações. Veja a pasta `/images` para os arquivos completos.
+| ![Capa](images/capa-artigo.jpg) | ![Arquitetura](images/frontend-backend.jpg) | ![Fluxo](images/fluxo-seguro-ia.jpg) |
 
 ---
 
@@ -116,11 +114,11 @@ dio-artigo-ia-fullstack-seguro/
 │   └── 09_prompt_publicacao_linkedin.md
 │
 ├── images/
-│   ├── capa-artigo.png
-│   ├── frontend-backend.png
-│   ├── api-key-segura.png
-│   ├── fluxo-seguro-ia.png
-│   └── github-portfolio.png
+│   ├── capa-artigo.jpg
+│   ├── frontend-backend.jpg
+│   ├── api-key-segura.jpg
+│   ├── fluxo-seguro-ia.jpg
+│   └── github-portfolio.jpg
 │
 └── docs/
     └── checklist-entrega-dio.md
@@ -159,11 +157,11 @@ Este projeto foi construído com auxílio de IA, utilizando prompts profissionai
 
 | Imagem | Descrição | Arquivo |
 |--------|-----------|---------|
-| Capa | Proteção de API Key em aplicações web | `capa-artigo.png` |
-| Arquitetura | Frontend vs Backend separados | `frontend-backend.png` |
-| Segurança | Chave protegida por cadeado digital | `api-key-segura.png` |
-| Fluxo | Fluxo seguro usuário → frontend → backend → IA | `fluxo-seguro-ia.png` |
-| Portfolio | GitHub com README profissional | `github-portfolio.png` |
+| Capa | Proteção de API Key em aplicações web | `capa-artigo.jpg` |
+| Arquitetura | Frontend vs Backend separados | `frontend-backend.jpg` |
+| Segurança | Chave protegida por cadeado digital | `api-key-segura.jpg` |
+| Fluxo | Fluxo seguro usuário → frontend → backend → IA | `fluxo-seguro-ia.jpg` |
+| Portfolio | GitHub com README profissional | `github-portfolio.jpg` |
 
 ---
 
