@@ -2,6 +2,8 @@
 
 > **O erro que 90% dos iniciantes cometem ao integrar IA em aplicações web — e como evitá-lo com arquitetura profissional**
 
+![Capa do Artigo](images/capa-artigo.jpg)
+
 ---
 
 ## Introdução
@@ -85,6 +87,8 @@ Usuário → Frontend → Backend (seguro, com API key) → OpenAI API
 
 ### Diagrama da arquitetura segura
 
+![Arquitetura Frontend vs Backend](images/frontend-backend.jpg)
+
 ```
 ┌──────────────┐      HTTP POST /api/chat      ┌──────────────┐
 │   Vercel     │ ────────────────────────────→ │   Railway    │
@@ -137,6 +141,8 @@ const openai = new OpenAI({
 .env
 .env.local
 ```
+
+![Proteção da API Key](images/api-key-segura.jpg)
 
 > ⚠️ **NUNCA faça isso**:
 ```javascript
@@ -220,6 +226,8 @@ app.use(cors({
 }));
 ```
 
+![Fluxo Seguro](images/fluxo-seguro-ia.jpg)
+
 ---
 
 ## 6. Do Projeto ao Portfólio
@@ -232,6 +240,8 @@ app.use(cors({
 - Link do deploy
 - Instruções de instalação
 - Estrutura de pastas
+
+![GitHub Portfolio](images/github-portfolio.jpg)
 
 ### LinkedIn
 
@@ -279,7 +289,7 @@ Deploy não é o último passo. É **onde o projeto ganha vida**.
 
 🚀 **Veja o projeto funcionando:** [LINK_DO_DEPLOY]
 
-📁 **Acesse o repositório:** [LINK_DO_REPOSITORIO]
+📁 **Acesse o repositório:** [dio-artigo-ia-fullstack-seguro](https://github.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro)
 
 💼 **Conecte-se comigo no LinkedIn:** [LINK_DO_LINKEDIN]
 
