@@ -89,21 +89,7 @@ Usuário → Frontend → Backend (seguro, com API key) → OpenAI API
 
 ![Arquitetura Frontend vs Backend](https://raw.githubusercontent.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro/main/images/frontend-backend.jpg)
 
-```
-┌──────────────┐      HTTP POST /api/chat      ┌──────────────┐
-│   Vercel     │ ────────────────────────────→ │   Railway    │
-│  (React)     │                               │  (Node.js)   │
-│  Porta 443   │ ←──────────────────────────── │  Porta 5000  │
-└──────────────┘         JSON {reply}           └──────────────┘
-                                                        │
-                                                        │ API Key segura
-                                                        │ no .env
-                                                        ↓
-                                               ┌──────────────┐
-                                               │   OpenAI     │
-                                               │    API       │
-                                               └──────────────┘
-```
+![Diagrama de Arquitetura](https://raw.githubusercontent.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro/main/images/diagrama-arquitetura.jpg)
 
 ---
 
