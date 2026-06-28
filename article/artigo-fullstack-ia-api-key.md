@@ -2,7 +2,7 @@
 
 > **O erro que 90% dos iniciantes cometem ao integrar IA em aplicações web — e como evitá-lo com arquitetura profissional**
 
-![Capa do Artigo](images/capa-artigo.jpg)
+![Capa do Artigo](https://raw.githubusercontent.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro/main/images/capa-artigo.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ Usuário → Frontend → Backend (seguro, com API key) → OpenAI API
 
 ### Diagrama da arquitetura segura
 
-![Arquitetura Frontend vs Backend](images/frontend-backend.jpg)
+![Arquitetura Frontend vs Backend](https://raw.githubusercontent.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro/main/images/frontend-backend.jpg)
 
 ```
 ┌──────────────┐      HTTP POST /api/chat      ┌──────────────┐
@@ -142,7 +142,7 @@ const openai = new OpenAI({
 .env.local
 ```
 
-![Proteção da API Key](images/api-key-segura.jpg)
+![Proteção da API Key](https://raw.githubusercontent.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro/main/images/api-key-segura.jpg)
 
 > ⚠️ **NUNCA faça isso**:
 ```javascript
@@ -226,7 +226,7 @@ app.use(cors({
 }));
 ```
 
-![Fluxo Seguro](images/fluxo-seguro-ia.jpg)
+![Fluxo Seguro](https://raw.githubusercontent.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro/main/images/fluxo-seguro-ia.jpg)
 
 ---
 
@@ -241,7 +241,7 @@ app.use(cors({
 - Instruções de instalação
 - Estrutura de pastas
 
-![GitHub Portfolio](images/github-portfolio.jpg)
+![GitHub Portfolio](https://raw.githubusercontent.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro/main/images/github-portfolio.jpg)
 
 ### LinkedIn
 
