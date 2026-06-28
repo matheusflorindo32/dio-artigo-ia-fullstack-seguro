@@ -216,7 +216,7 @@ Durante este projeto, aprofundei conhecimentos em:
 | Recurso | Link |
 |---------|------|
 | 📄 Artigo | [LINK_DO_ARTIGO] |
-| 📁 Repositório | [LINK_DO_REPOSITORIO] |
+| 📁 Repositório | [dio-artigo-ia-fullstack-seguro](https://github.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro) |
 | 💼 LinkedIn | [LINK_DO_LINKEDIN] |
 | 🚀 Deploy | [LINK_DO_DEPLOY] |
 | 🎯 Desafio DIO | [LINK_DO_DESAFIO] |
