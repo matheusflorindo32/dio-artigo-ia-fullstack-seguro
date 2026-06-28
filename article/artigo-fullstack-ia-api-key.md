@@ -273,11 +273,11 @@ Deploy não é o último passo. É **onde o projeto ganha vida**.
 
 ## Call to Action
 
-🚀 **Veja o projeto funcionando:** [LINK_DO_DEPLOY]
+🚀 **Veja o projeto funcionando:** https://chatgpt-clone-dio-git-main-matheusflorindo32s-projects.vercel.app/
 
 📁 **Acesse o repositório:** [dio-artigo-ia-fullstack-seguro](https://github.com/matheusflorindo32/dio-artigo-ia-fullstack-seguro)
 
-💼 **Conecte-se comigo no LinkedIn:** [LINK_DO_LINKEDIN]
+💼 **Conecte-se comigo no LinkedIn:** https://www.linkedin.com/in/matheus-florindo-de-deus-b953b017a/
 
 💬 **O que você está construindo com IA?** Compartilhe nos comentários!
 
